@@ -1,5 +1,5 @@
 [package]
-name = "elim 60"
+name = "elim60"
 version = "0.1.12"
 authors = ["Haobo Gu <haobogu@outlook.com>"]
 description = "Keyboard firmware written in Rust"
@@ -59,6 +59,6 @@ overflow-checks = true
 lto = "fat"
 
 [[bin]]
-name = "elim 60"
+name = "elim60"
 test = false
 bench = false
