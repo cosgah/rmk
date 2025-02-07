@@ -57,3 +57,8 @@ debug = true           # no overhead for bare-metal
 opt-level = "z"        # optimize for binary size
 overflow-checks = true
 lto = "fat"
+
+[bin]]
+name = "elim 60"
+test = false
+bench = false
