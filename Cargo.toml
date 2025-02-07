@@ -43,7 +43,7 @@ json = "0.12"
 const-gen = "1.6"
 
 [[bin]]
-name = "bin.path"
+name = "path"
 test = false
 bench = false
 
