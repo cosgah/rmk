@@ -1,5 +1,5 @@
 [package]
-name = "rmk"
+name = "elim 60"
 version = "0.1.12"
 authors = ["Haobo Gu <haobogu@outlook.com>"]
 description = "Keyboard firmware written in Rust"
@@ -58,7 +58,7 @@ opt-level = "z"        # optimize for binary size
 overflow-checks = true
 lto = "fat"
 
-[bin]]
+[[bin]]
 name = "elim 60"
 test = false
 bench = false
